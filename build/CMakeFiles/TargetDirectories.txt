@@ -1,0 +1,12 @@
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/CMakeFiles/test.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/src/CMakeFiles/mylib.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/src/CMakeFiles/ca.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/src/CMakeFiles/test.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/src/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/tests/CMakeFiles/ca_test.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/tests/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/tests/CMakeFiles/test.dir
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/build/tests/CMakeFiles/edit_cache.dir

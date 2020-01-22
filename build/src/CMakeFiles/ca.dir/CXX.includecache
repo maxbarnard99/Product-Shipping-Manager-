@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/load.h
+vector
+-
+string
+-
+shipping_item.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/main.cpp
+iostream
+-
+shipping_item.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+load.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/load.h
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+string
+-
+

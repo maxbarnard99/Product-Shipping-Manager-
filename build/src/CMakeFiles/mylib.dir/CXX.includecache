@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/carton.h
+iostream
+-
+iomanip
+-
+shipping_item.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/flat.cpp
+flat.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/flat.h
+shipping_item.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+fstream
+-
+iomanip
+-
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/flat.h
+shipping_item.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/load.cpp
+shipping_item.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+load.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/load.h
+flat.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/flat.h
+tube.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/tube.h
+carton.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/carton.h
+fstream
+-
+iostream
+-
+algorithm
+-
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/load.h
+vector
+-
+string
+-
+shipping_item.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+string
+-
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/tube.cpp
+tube.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/tube.h
+shipping_item.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+fstream
+-
+iomanip
+-
+
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/tube.h
+shipping_item.h
+C:/Users/Admin/Documents/CS 1410/cs1410-module6-activities-MaxBarnard-99/CA6-1/src/shipping_item.h
+
